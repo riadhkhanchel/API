@@ -1,0 +1,12 @@
+body {
+  background-color: burlywood;
+}
+
+.usersCard {
+  background-color: #222831;
+  border-radius: 5px;
+box-shadow: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 2%;
+ width: 50%; 
+}
